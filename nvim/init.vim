@@ -1,0 +1,1 @@
+../../.homesick/repos/config-dotfiles/home/.config/nvim/init.vim
